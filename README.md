@@ -1,2 +1,2 @@
 # test-repo
-Kort test
+Bare en kort test av GitHub
